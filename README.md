@@ -1,2 +1,3 @@
 # SCA24_Hackathon
-Trillion Parameter Consortium: Open Hackathon for Advancing AI in Science
+
+Repository containg examples of how scientific data can be applied to fine-tuning

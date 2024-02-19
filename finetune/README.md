@@ -14,6 +14,8 @@ LLM_Finetune_For_Solubility_Data_PEFT.ipynb
 
 This notebook introduces the concept of Parameter Efficient Fine Tuning (PEFT), a cutting-edge approach designed to enhance the fine-tuning process of large language models (LLMs) for specific datasets. It represents an advanced technique for optimizing model performance with minimal adjustments to the model parameters.
 
+PEFT is a novel fine-tuning approach that significantly reduces the memory and computational costs associated with fine-tuning large language models (LLMs). Unlike traditional fine-tuning methods that require storing and updating a copy of the entire LLM, PEFT operates by selectively updating only a small subset of parameters within the LLM.
+
 # Getting Started
 
 Data Upload and Preparation:
